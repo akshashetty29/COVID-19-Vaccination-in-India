@@ -5,4 +5,4 @@ It also includes the analysis of How much people are vaccinated as per the gende
 
 
 References:
-dataset:https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=covid_19_india.csv
+dataset:https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=covid_vaccine_statewise.csv
